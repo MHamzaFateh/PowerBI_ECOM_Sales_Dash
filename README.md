@@ -22,7 +22,3 @@ This project involves analyzing two datasets related to e-commerce sales:
    - **State**: State where the order was delivered
    - **City**: City where the order was delivered
 
-## Getting Started
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-sales-analysis.git
